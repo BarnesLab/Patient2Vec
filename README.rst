@@ -23,7 +23,7 @@ The wide implementation of electronic health record (EHR) systems facilitates th
 .. |license| image:: https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592104
    :target: https://github.com/BarnesLab/Patient2Vec/blob/master/LICENSE
 .. |twitter| image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social
-   :target: https://twitter.com/intent/tweet?text=Patient2Vec:%20A%20Personalized%20Interpretable%20Deep%20Representation%20of%20the%20Longitudinal%20Electronic%20Health%20Record%0aGitHub:&url=https://github.com/BarnesLab/Patient2Vec&hashtags=#healthcare,DeepLearning,hospitalization,EHR,Electronic,Health,Record,representation,learning,personalization%20
+   :target: https://twitter.com/intent/tweet?text=Patient2Vec:%20A%20Personalized%20Interpretable%20Deep%20Representation%20of%20the%20Longitudinal%20Electronic%20Health%20Record%0aGitHub:&url=https://github.com/BarnesLab/Patient2Vec&hashtags=#healthcare,DeepLearning,hospitalization,EHR,Electronic,Health,Record,representation,learning,personalization
    
    
 Citation:
