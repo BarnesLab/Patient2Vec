@@ -6,6 +6,7 @@ Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudina
 
 Referenced paper : `Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record <https://doi.org/10.1109/ACCESS.2018.2875677>`__
 
+|Patient2Vec|
 
 Documentation
 =============
@@ -17,6 +18,7 @@ The wide implementation of electronic health record (EHR) systems facilitates th
    :target: https://doi.org/10.1109/ACCESS.2018.2875677
 .. |arxiv| image:: https://img.shields.io/badge/arXiv-1810.04793-red.svg
     :target: https://arxiv.org/abs/1810.04793
+.. |Patient2Vec| image:: Patient2Vec.png
 
 
 Citation:
