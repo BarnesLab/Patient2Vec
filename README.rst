@@ -1,4 +1,5 @@
-*Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record:
+Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record
+===========================================================================================================
 
 Referenced paper : `Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record <https://doi.org/10.1109/ACCESS.2018.2875677>`__
 
