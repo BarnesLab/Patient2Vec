@@ -31,12 +31,13 @@ Citation:
 
 .. code::
 
-   @ARTICLE{8490816, 
-         author={Jinghe Zhang and Kamran Kowsari and James H Harrison and Jennifer M Lobo and Laura E Barnes}, 
-         journal={IEEE Access}, 
-         title={Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record}, 
-         year={2018}, 
-         keywords={Logic gates;Medical services;Task analysis;Recurrent neural networks;Electronic medical records;Machine learning;Natural language processing;Attention mechanism;gated recurrent unit;hospitalization;longitudinal electronic health record;personalization;representation learning}, 
-         doi={10.1109/ACCESS.2018.2875677}, 
-         ISSN={2169-3536}
-   }
+@ARTICLE{Patient2Vec, 
+      author={J. Zhang and K. Kowsari and J. H. Harrison and J. M. Lobo and L. E. Barnes}, 
+      journal={IEEE Access}, 
+      title={Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record}, 
+      year={2018}, 
+      volume={6}, 
+      pages={65333-65346}, 
+      doi={10.1109/ACCESS.2018.2875677}, 
+      ISSN={2169-3536},
+}
