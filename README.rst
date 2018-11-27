@@ -31,13 +31,13 @@ Citation:
 
 .. code::
 
-@ARTICLE{Patient2Vec, 
-      author={J. Zhang and K. Kowsari and J. H. Harrison and J. M. Lobo and L. E. Barnes}, 
-      journal={IEEE Access}, 
-      title={Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record}, 
-      year={2018}, 
-      volume={6}, 
-      pages={65333-65346}, 
-      doi={10.1109/ACCESS.2018.2875677}, 
-      ISSN={2169-3536},
-}
+   @ARTICLE{Patient2Vec, 
+         author={Zhang, Jinghe and Kowsari, Kamran and Harrison, James H and Lobo, Jennifer M and Barnes, Laura E}, 
+         journal={IEEE Access}, 
+         title={Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record}, 
+         year={2018}, 
+         volume={6}, 
+         pages={65333-65346}, 
+         doi={10.1109/ACCESS.2018.2875677}, 
+         ISSN={2169-3536}
+   }
